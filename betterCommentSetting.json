@@ -89,6 +89,15 @@
             "backgroundColor": "#FF8C00",
             "bold": true,
             "italic": false
+        },
+        {
+            "tag": "#- todo",
+            "color": "#101820",
+            "strikethrough": false,
+            "underline": true,
+            "backgroundColor": "#26A697",
+            "bold": true,
+            "italic": false
         }
     ]
 }
