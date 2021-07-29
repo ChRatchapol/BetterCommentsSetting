@@ -98,6 +98,15 @@
             "backgroundColor": "#26A697",
             "bold": true,
             "italic": false
-        }
+        },
+        {
+          "tag": "▲",
+          "color": "#fff",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "#ff0000",
+          "bold": true,
+          "italic": false
+        },
     ]
 }
