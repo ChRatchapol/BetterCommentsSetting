@@ -10,7 +10,7 @@
 ---
 Install 'Better Comments' to VS Code and open the extension settings (go to extension click on the gear icon and choose 'Extension Settings') then on the bottom of the page, click on 'Edit in setting.json'. Find "better-comments.tags" the replace everything with text from 'betterCommentSetting.json' in this git (don't forget to remove first and last curly brackets before replace). Then reload the window, and you're good to go!
 
-‼️ adjust indetation by yourself! ‼️
+‼️ adjust indentation by yourself! ‼️
 
 ## Example (use comment at the begin, '#' will be used in this example)
 ---
