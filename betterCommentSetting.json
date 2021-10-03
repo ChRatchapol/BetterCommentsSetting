@@ -37,7 +37,7 @@
             "italic": false
         },
         {
-            "tag": "- todo",
+            "tag": "-todo",
             "color": "#A18665",
             "strikethrough": true,
             "underline": false,
