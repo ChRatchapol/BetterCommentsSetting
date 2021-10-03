@@ -13,6 +13,7 @@ Install 'Better Comments' to VS Code and open the extension settings (go to exte
 ‼️ adjust indentation by yourself! ‼️
 
 ## Example (use comment at the begin, '#' will be used in this example)
+** space after '#' in example is not necessary **
 ---
 | symbol    | meaning              | description                                                            |
 |:----------|:--------------------:|:-----------------------------------------------------------------------|
@@ -23,6 +24,7 @@ Install 'Better Comments' to VS Code and open the extension settings (go to exte
 | # ## todo | todo header          | bold almost black text with orange background                          |
 | # #- todo | todo subheader       | bold almost black text with greenish blue background                   |
 | # todo    | todo item            | orange text                                                            |
+| # -todo   | done todo item       | pale orange text and has strikethrough                                 |
 | # *       | hightlight           | text color in green                                                    |
 | # \|      | important hightlight | bold text color in dark green and has green background                 |
 | # >>      | hightlight warning   | bold text in almost black and has bright yellow background             |
