@@ -26,6 +26,7 @@ Install 'Better Comments' to VS Code and open the extension settings (go to exte
 | # todo    | todo item            | orange text                                                            |
 | # -todo   | done todo item       | pale orange text and has strikethrough                                 |
 | # tc      | todo item cont.      | orange text                                                            |
+| # -tc     | done todo item cont. | pale orange text and has strikethrough                                 |
 | # tb      | todo list border     | orange text and background                                             |
 | # *       | highlight            | text color in green                                                    |
 | # \|      | important highlight  | bold text color in dark green and has green background                 |
