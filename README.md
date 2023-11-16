@@ -1,6 +1,6 @@
 # BetterCommentsSetting
 ---
-‼️ remove first and last curly brackets before use. ‼️
+‼️ remove the first and last curly brackets before use. ‼️
 
 ℹ️ for more information, look at `aaron-bond.better-comments` extension on vs-code.
 
@@ -13,7 +13,7 @@ Install 'Better Comments' to VS Code and open the extension settings (go to exte
 ‼️ adjust indentation by yourself! ‼️
 
 ## Example (use comment at the begin, '#' will be used in this example)
-** space after '#' in example is not necessary **
+** space after '#' in the example is not necessary **
 ---
 | symbol    | meaning              | description                                                            |
 |:----------|:--------------------:|:-----------------------------------------------------------------------|
@@ -25,8 +25,10 @@ Install 'Better Comments' to VS Code and open the extension settings (go to exte
 | # #- todo | todo subheader       | bold almost black text with greenish blue background                   |
 | # todo    | todo item            | orange text                                                            |
 | # -todo   | done todo item       | pale orange text and has strikethrough                                 |
-| # *       | hightlight           | text color in green                                                    |
-| # \|      | important hightlight | bold text color in dark green and has green background                 |
-| # >>      | hightlight warning   | bold text in almost black and has bright yellow background             |
+| # tc      | todo item cont.      | orange text                                                            |
+| # tb      | todo list border     | orange text and background                                             |
+| # *       | highlight            | text color in green                                                    |
+| # \|      | important highlight  | bold text color in dark green and has green background                 |
+| # >>      | highlight warning    | bold text in almost black and has a bright yellow background           |
 | # ~       | sea                  | text in white and has blue background                                  |
 | # <3      | <3                   | bold text in black and has pink background                             |
