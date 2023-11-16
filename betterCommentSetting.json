@@ -37,6 +37,24 @@
             "italic": false
         },
         {
+            "tag": "tc",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "tb",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#FF8C00",
+            "bold": false,
+            "italic": false
+        },
+        {
             "tag": "-todo",
             "color": "#A18665",
             "strikethrough": true,
