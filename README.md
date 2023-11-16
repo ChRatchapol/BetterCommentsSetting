@@ -8,12 +8,11 @@
 
 ## Usage
 ---
-Install 'Better Comments' to VS Code and open the extension settings (go to extension click on the gear icon and choose 'Extension Settings') then on the bottom of the page, click on 'Edit in setting.json'. Find "better-comments.tags" the replace everything with text from 'betterCommentSetting.json' in this git (don't forget to remove first and last curly brackets before replace). Then reload the window, and you're good to go!
+Install `Better Comments` for Visual Studio Code. To access the extension settings, navigate to the extension and click on the gear icon. Select `Extension Settings` from the menu. Scroll to the bottom of the page and click on `Edit in settings.json`. Locate the property `better-comments.tags`. Replace the existing content with the text from `betterCommentSetting.json` in this repository. Remember to remove the first and last curly braces before pasting the text. Reload the VS Code window to apply the changes.
 
 ‼️ adjust indentation by yourself! ‼️
 
 ## Example (use comment at the begin, '#' will be used in this example)
-** space after '#' in the example is not necessary **
 ---
 | symbol    | meaning              | description                                                            |
 |:----------|:--------------------:|:-----------------------------------------------------------------------|
